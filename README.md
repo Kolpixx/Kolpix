@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @KolpixTV
-- 👀 I’m interested in Linux / Raspberry Pi Stuff
+- 👋 Hi, I’m Kolpix
+- 👀 I’m interested in Linux
 - 🌱 I’m currently learning Java
 - 📫 You can reach me over Discord: "Kolpix#1391"
 
